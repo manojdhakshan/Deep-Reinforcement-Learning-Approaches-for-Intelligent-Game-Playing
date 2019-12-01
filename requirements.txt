@@ -1,1 +1,9 @@
-django >= 2.1.6, < 3.0 
+numpy
+matplotlib
+cython
+tensorflow-gpu
+keras
+keyboard
+Pillow
+pandas
+opencv-python
