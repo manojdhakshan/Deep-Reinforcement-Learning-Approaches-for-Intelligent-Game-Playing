@@ -12,7 +12,7 @@ Python 3.5, CUDA 9.0, cudnn 7.3.1 and other common packages listed in `requireme
 
 # Sample test
 ### 1. templet.py
-- Check templet maching **cactus** and **bird** image.
+- Check templet matching **cactus** and **bird** image.
 
 ### 2. make_data.py
 - Make training data with keyboard input.
